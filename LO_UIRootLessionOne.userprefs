@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../NguiTexture/LessionTexture/Assets/NGUI/Scripts/Internal/UIBasicSprite.cs">
+    <Files>
+      <File FileName="../../NguiTexture/LessionTexture/Assets/NGUI/Scripts/Internal/UIRect.cs" Line="13" Column="1" />
+      <File FileName="../../NguiTexture/LessionTexture/Assets/NGUI/Scripts/Internal/UIWidget.cs" Line="15" Column="1" />
+      <File FileName="../../NguiTexture/LessionTexture/Assets/NGUI/Scripts/UI/UITexture.cs" Line="17" Column="39" />
+      <File FileName="../../NguiTexture/LessionTexture/Assets/NGUI/Scripts/Internal/UIBasicSprite.cs" Line="8" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
